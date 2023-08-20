@@ -3,7 +3,7 @@ let SVG = require("./lib/svg");
 const inquirer = require("inquirer");
 const shape = require('./lib/shapes.js');
 
-// let example = new SVG("AND", "green", "triangle", "yellow")
+
 
 inquirer
     .prompt([
